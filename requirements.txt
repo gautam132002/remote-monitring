@@ -1,0 +1,6 @@
+streamlit
+flask
+psutil
+firebase
+firebase-admin
+plotly

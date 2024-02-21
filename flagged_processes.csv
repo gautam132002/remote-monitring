@@ -1,0 +1,115 @@
+Process Name,PID,%CPU,%MEM,Flag Reason,Kill URL
+streamlit,171073,36.5,1.8842046104376085,Unknown process,http://127.0.0.1:5000/kill_process/171073
+codium,129642,22.2,1.8744112937119033,Out of resources!,http://127.0.0.1:5000/kill_process/129642
+WD-TabNine,129838,19.8,0.077731375719858,Out of resources!,http://127.0.0.1:5000/kill_process/129838
+brave,173050,19.7,1.6199573031075818,Out of resources!,http://127.0.0.1:5000/kill_process/173050
+brave,171145,18.3,2.3167591700385533,Out of resources!,http://127.0.0.1:5000/kill_process/171145
+brave,171188,8.2,1.0360984607268313,Out of resources!,http://127.0.0.1:5000/kill_process/171188
+Xorg,1049,7.8,1.0076535508401092,Out of resources!,http://127.0.0.1:5000/kill_process/1049
+mate-multiload-applet,1977,1.9,0.19431613613792928,Out of resources!,http://127.0.0.1:5000/kill_process/1977
+ksoftirqd/0,14,1.0,0.0,Out of resources!,http://127.0.0.1:5000/kill_process/14
+dbus-daemon,1645,1.0,0.03781991911409362,Out of resources!,http://127.0.0.1:5000/kill_process/1645
+marco,1737,1.0,0.2994835624838213,Out of resources!,http://127.0.0.1:5000/kill_process/1737
+chrome,42278,1.0,3.265677426847861,Out of resources!,http://127.0.0.1:5000/kill_process/42278
+TabNine,129843,1.0,0.757604092130012,Out of resources!,http://127.0.0.1:5000/kill_process/129843
+ksoftirqd/2,26,0.5,0.0,Out of resources!,http://127.0.0.1:5000/kill_process/26
+irq/51-DELL078C:00,183,0.5,0.0,Out of resources!,http://127.0.0.1:5000/kill_process/183
+dbus-daemon,878,0.5,0.04067425263213842,Out of resources!,http://127.0.0.1:5000/kill_process/878
+mate-power-manager,1840,0.5,0.2828742941676124,Out of resources!,http://127.0.0.1:5000/kill_process/1840
+kworker/u8:6-flush-btrfs-1,157660,0.5,0.0,Unknown process,http://127.0.0.1:5000/kill_process/157660
+systemd-journald,399,0.0,0.25123056223480533,Out of resources!,http://127.0.0.1:5000/kill_process/399
+systemd-udevd,451,0.0,0.05543804669099083,Out of resources!,http://127.0.0.1:5000/kill_process/451
+haveged,864,0.0,0.04131401704135535,Out of resources!,http://127.0.0.1:5000/kill_process/864
+accounts-daemon,869,0.0,0.06493608753551923,Out of resources!,http://127.0.0.1:5000/kill_process/869
+bluetoothd,875,0.0,0.03882877837478187,Out of resources!,http://127.0.0.1:5000/kill_process/875
+cron,877,0.0,0.017372064342583014,Out of resources!,http://127.0.0.1:5000/kill_process/877
+NetworkManager,881,0.0,0.14005919297164662,Out of resources!,http://127.0.0.1:5000/kill_process/881
+osspd,885,0.0,0.018061041398662794,Out of resources!,http://127.0.0.1:5000/kill_process/885
+polkitd,886,0.0,0.06690459341003288,Out of resources!,http://127.0.0.1:5000/kill_process/886
+rngd,887,0.0,0.004945871009715561,Out of resources!,http://127.0.0.1:5000/kill_process/887
+systemd-logind,889,0.0,0.05275595743696598,Out of resources!,http://127.0.0.1:5000/kill_process/889
+udisksd,890,0.0,0.11171270837864998,Out of resources!,http://127.0.0.1:5000/kill_process/890
+wpa_supplicant,891,0.0,0.06368116504051677,Out of resources!,http://127.0.0.1:5000/kill_process/891
+ModemManager,991,0.0,0.07704239866377821,Out of resources!,http://127.0.0.1:5000/kill_process/991
+run-cups-browse,1003,0.0,0.006274612475012278,Out of resources!,http://127.0.0.1:5000/kill_process/1003
+run-cupsd,1004,0.0,0.010137805253745328,Out of resources!,http://127.0.0.1:5000/kill_process/1004
+agetty,1050,0.0,0.004306106600498623,Out of resources!,http://127.0.0.1:5000/kill_process/1050
+cupsd,1354,0.0,0.07234259088837686,Out of resources!,http://127.0.0.1:5000/kill_process/1354
+cups-proxyd,1355,0.0,0.06619101003052169,Out of resources!,http://127.0.0.1:5000/kill_process/1355
+rtkit-daemon,1414,0.0,0.019242144923370987,Out of resources!,http://127.0.0.1:5000/kill_process/1414
+upowerd,1566,0.0,0.08127468629398257,Out of resources!,http://127.0.0.1:5000/kill_process/1566
+lightdm,1588,0.0,0.05814474226844711,Out of resources!,http://127.0.0.1:5000/kill_process/1588
+(sd-pam),1627,0.0,0.02426183490338081,Out of resources!,http://127.0.0.1:5000/kill_process/1627
+pipewire,1641,0.0,0.13996076767792096,Out of resources!,http://127.0.0.1:5000/kill_process/1641
+wireplumber,1642,0.0,0.22532010366151933,Out of resources!,http://127.0.0.1:5000/kill_process/1642
+gnome-keyring-daemon,1647,0.0,0.06796266531758396,Out of resources!,http://127.0.0.1:5000/kill_process/1647
+x-session-manager,1651,0.0,0.17116158578896237,Out of resources!,http://127.0.0.1:5000/kill_process/1651
+dconf-service,1686,0.0,0.037942950731250716,Out of resources!,http://127.0.0.1:5000/kill_process/1686
+at-spi2-registryd,1731,0.0,0.06151580857855175,Out of resources!,http://127.0.0.1:5000/kill_process/1731
+gvfsd,1738,0.0,0.060506949317863504,Out of resources!,http://127.0.0.1:5000/kill_process/1738
+xdg-permission-store,1747,0.0,0.04466047702802857,Out of resources!,http://127.0.0.1:5000/kill_process/1747
+syndaemon,1764,0.0,0.01690454419738602,Out of resources!,http://127.0.0.1:5000/kill_process/1764
+gvfs-udisks2-volume-monitor,1765,0.0,0.10460148090696939,Out of resources!,http://127.0.0.1:5000/kill_process/1765
+gvfs-mtp-volume-monitor,1773,0.0,0.05002465553607829,Out of resources!,http://127.0.0.1:5000/kill_process/1773
+mate-screensaver,1780,0.0,0.23949334595801766,Out of resources!,http://127.0.0.1:5000/kill_process/1780
+nm-applet,1789,0.0,0.30888317803462406,Out of resources!,http://127.0.0.1:5000/kill_process/1789
+gvfs-gphoto2-volume-monitor,1811,0.0,0.05386324199137991,Out of resources!,http://127.0.0.1:5000/kill_process/1811
+agent,1822,0.0,0.04237208894890645,Out of resources!,http://127.0.0.1:5000/kill_process/1822
+gvfs-goa-volume-monitor,1839,0.0,0.05125497170764932,Out of resources!,http://127.0.0.1:5000/kill_process/1839
+polkit-mate-authentication-agent-1,1855,0.0,0.10691447530952293,Out of resources!,http://127.0.0.1:5000/kill_process/1855
+gvfs-afc-volume-monitor,1879,0.0,0.06075301255217771,Out of resources!,http://127.0.0.1:5000/kill_process/1879
+fusermount3,1898,0.0,0.010679144369236584,Out of resources!,http://127.0.0.1:5000/kill_process/1898
+xdg-desktop-portal,1899,0.0,0.10804636618736829,Out of resources!,http://127.0.0.1:5000/kill_process/1899
+clock-applet,1975,0.0,0.24328271976645646,Out of resources!,http://127.0.0.1:5000/kill_process/1975
+notification-area-applet,1982,0.0,0.19402086025675222,Out of resources!,http://127.0.0.1:5000/kill_process/1982
+gvfsd-trash,2017,0.0,0.07054632927788315,Out of resources!,http://127.0.0.1:5000/kill_process/2017
+obexd,2070,0.0,0.04183074983341519,Out of resources!,http://127.0.0.1:5000/kill_process/2070
+dnsmasq,2074,0.0,0.0024852386665734907,Out of resources!,http://127.0.0.1:5000/kill_process/2074
+gvfsd-metadata,2141,0.0,0.07755913145583805,Out of resources!,http://127.0.0.1:5000/kill_process/2141
+gvfsd-network,3335,0.0,0.07942921203662602,Out of resources!,http://127.0.0.1:5000/kill_process/3335
+gvfsd-dnssd,3361,0.0,0.07659948484201264,Out of resources!,http://127.0.0.1:5000/kill_process/3361
+/opt/lampp/bin/,10206,0.0,0.18636829366958038,Out of resources!,http://127.0.0.1:5000/kill_process/10206
+proftpd,10272,0.0,0.017839584487780006,Out of resources!,http://127.0.0.1:5000/kill_process/10272
+mysqld_safe,10312,0.0,0.009670285108548334,Out of resources!,http://127.0.0.1:5000/kill_process/10312
+ssh-agent,13996,0.0,0.023671283141026712,Out of resources!,http://127.0.0.1:5000/kill_process/13996
+cat,42284,0.0,0.00349409792726174,Out of resources!,http://127.0.0.1:5000/kill_process/42284
+chrome_crashpad_handler,42286,0.0,0.021038406533864698,Out of resources!,http://127.0.0.1:5000/kill_process/42286
+nacl_helper,42296,0.0,0.02787896444779965,Out of resources!,http://127.0.0.1:5000/kill_process/42296
+gvfsd-http,45550,0.0,0.08287409731702491,Out of resources!,http://127.0.0.1:5000/kill_process/45550
+uuidd,45984,0.0,0.007209652765406265,Out of resources!,http://127.0.0.1:5000/kill_process/45984
+wnck-applet,46247,0.0,0.5081943978291317,Out of resources!,http://127.0.0.1:5000/kill_process/46247
+mate-terminal,116887,0.0,0.3316686335321196,Out of resources!,http://127.0.0.1:5000/kill_process/116887
+mate-screenshot,127643,0.0,0.39463621519312514,Unknown process,http://127.0.0.1:5000/kill_process/127643
+mate-screenshot,127655,0.0,0.1719735944621993,Unknown process,http://127.0.0.1:5000/kill_process/127655
+kworker/u8:0-flush-btrfs-1,128766,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/128766
+python,130018,0.0,0.9220973642690594,Out of resources!,http://127.0.0.1:5000/kill_process/130018
+bash,130046,0.0,0.05974415329148946,Out of resources!,http://127.0.0.1:5000/kill_process/130046
+kworker/2:1-events,130556,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/130556
+kworker/u8:9-btrfs-worker,132036,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/132036
+kworker/u8:1-btrfs-endio-write,137285,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/137285
+kworker/1:2-events,155472,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/155472
+kworker/u8:12-btrfs-endio-write,158178,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/158178
+sleep,159638,0.0,0.006225399828149437,Out of resources!,http://127.0.0.1:5000/kill_process/159638
+kworker/u8:3-btrfs-endio-write,163715,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/163715
+mpv,163938,0.0,0.36405055516786927,Unknown process,http://127.0.0.1:5000/kill_process/163938
+kworker/3:1-events,164274,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/164274
+mpv,164574,0.0,0.3832680937678088,Unknown process,http://127.0.0.1:5000/kill_process/164574
+mpv,164850,0.0,0.39333208005125986,Unknown process,http://127.0.0.1:5000/kill_process/164850
+streamlit,166339,0.0,0.9397647044928193,Unknown process,http://127.0.0.1:5000/kill_process/166339
+xdg-open,166375,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/166375
+cat,166389,0.0,0.003543310574124581,Out of resources!,http://127.0.0.1:5000/kill_process/166389
+chrome_crashpad_handler,166392,0.0,0.02108761918072754,Out of resources!,http://127.0.0.1:5000/kill_process/166392
+kworker/u8:7-btrfs-worker,168032,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/168032
+kworker/0:1-events_power_efficient,168066,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/168066
+kworker/u9:3-btrfs-worker-high,168189,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/168189
+kworker/3:0-events,168335,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/168335
+kworker/2:2-events,168368,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/168368
+mpv,169444,0.0,0.36648658118757993,Unknown process,http://127.0.0.1:5000/kill_process/169444
+kworker/u8:5-btrfs-worker,170659,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/170659
+xdg-open,171121,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/171121
+brave-browser-s,171135,0.0,0.020324823154353498,Out of resources!,http://127.0.0.1:5000/kill_process/171135
+cat,171143,0.0,0.003543310574124581,Out of resources!,http://127.0.0.1:5000/kill_process/171143
+mpv,175683,0.0,0.3660190610423829,Unknown process,http://127.0.0.1:5000/kill_process/175683
+kworker/u8:4-events_unbound,176706,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/176706
+kworker/u8:8-btrfs-endio-write,176987,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/176987
+kworker/u8:10-btrfs-endio-write,176988,0.0,0.0,Unknown process,http://127.0.0.1:5000/kill_process/176988
